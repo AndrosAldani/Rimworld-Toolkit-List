@@ -3121,12 +3121,6 @@
       "price": 1
     },
     {
-      "abr": "bamboochewer",
-      "category": "Animal",
-      "defname": "bamboochewer",
-      "price": -10
-    },
-    {
       "abr": "bamboo",
       "category": "Raw resources",
       "defname": "Bamboo",
@@ -4474,7 +4468,7 @@
       "abr": "bamboochewermeat",
       "category": "Meat",
       "defname": "Meat_bamboochewer",
-      "price": 1
+      "price": 2
     },
     {
       "abr": "techprint(cataphractarmor)",
@@ -4801,5 +4795,5 @@
       "price": 1250
     }
   ],
-  "total": 800
+  "total": 799
 }
